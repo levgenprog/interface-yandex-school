@@ -1,0 +1,15 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "crawler to find links in a site by url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fetcher": "^0.3.0"
+  }
+}
